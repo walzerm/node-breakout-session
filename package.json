@@ -1,0 +1,11 @@
+{
+  "name": "node_breakout_session",
+  "version": "1.0.0",
+  "description": "serving files on node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lissa walzer",
+  "license": "ISC"
+}
